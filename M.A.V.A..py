@@ -9,7 +9,7 @@ def wishme():
     elif 17 <= hr <= 24:
         print("Good Evening")
     else:
-        print("lol")
+        print("mmamma mia")
 
 
 wishme()
