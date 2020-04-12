@@ -9,8 +9,10 @@ def wishme():
     elif 17 <= hr <= 24:
         print("Good Evening")
     else:
-        print("This a easter egg for contributos. Please add your name in a line"
-              "awsomemanNever")
+        print("This a easter egg for contributors. Please add your name in a line",
+              "awsomemanNever",
+              "Drac5079",
+              sep='\n')
 
 
 wishme()
