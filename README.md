@@ -8,4 +8,4 @@ Awsome
 Virtual
 Assistant
 
-so that its awsome and personal to everyone.
+so that its aewsome and personal to everyone.
